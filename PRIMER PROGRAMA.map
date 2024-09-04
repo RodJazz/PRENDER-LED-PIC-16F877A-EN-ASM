@@ -1,0 +1,36 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Fri Aug 30 19:34:58 2024
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000014
+.config_2007_PRIMER PROGRAMA.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000009      
+                            0x002007    0x002007      
+            11 out of 1094 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+            CONFIGURACION   0x000001    program     static C:\Users\USUARIO\Desktop\Clase 1 ELT23822A\PRIMER PROGRAMA.asm
+                     MAIN   0x000007    program     static C:\Users\USUARIO\Desktop\Clase 1 ELT23822A\PRIMER PROGRAMA.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+            CONFIGURACION   0x000001    program     static C:\Users\USUARIO\Desktop\Clase 1 ELT23822A\PRIMER PROGRAMA.asm
+                     MAIN   0x000007    program     static C:\Users\USUARIO\Desktop\Clase 1 ELT23822A\PRIMER PROGRAMA.asm
+
+
